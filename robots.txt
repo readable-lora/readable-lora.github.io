@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://readable-lora.github.io/sitemap.xml
